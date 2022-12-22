@@ -1,0 +1,160 @@
+*{
+
+    margin: 0%;
+
+    padding: 0%;
+
+    box-sizing: border-box;
+
+
+
+}
+
+header{
+
+    height: 10vh;
+
+    width: 100vw;
+
+    position: sticky;
+
+    background-color: blueviolet;
+
+    color: white;
+
+    display: flex;
+
+    padding-top: 20px;
+
+    padding-left: 10px;
+
+}
+
+.content{
+
+    height: 80vh;
+
+    width: 70vw;
+
+    background-color: rgb(116, 231, 28);
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-direction: column;
+
+
+
+
+}
+
+.aside{
+
+    height: 80vh;
+
+    width: 30vw;
+
+    background-color: orangered;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+
+
+}
+
+.footer{
+
+    height: 10vh;
+
+    width: 100vw;
+
+    background-color:rgb(49, 167, 214);
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.container{
+
+    display: flex;
+
+   
+
+}
+
+.contentcontainer{
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background-color: yellow;
+
+
+
+}
+
+.mid1{
+
+   
+
+
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-direction: row;
+
+}
+
+.mid2{
+
+   
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-direction:row;
+
+}
+
+.cont{
+
+    height: 70px;
+
+    width: 70px;
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    background-color: blue;
+
+    margin: 50px;
+
+    color: aliceblue;
+
+
+
+}
